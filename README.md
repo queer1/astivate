@@ -1,6 +1,10 @@
 astivate
 ========
 
+//Mirrored from 3x7R00Tripper.
+//He took his repo down because it wasn't even his source or something, idk.
+//But here is the mirror...
+
 Activation Bypass after Semi-Restore: All devices &amp; All iOS versions
 
 How to: Scroll down
